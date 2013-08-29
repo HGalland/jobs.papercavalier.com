@@ -1,9 +1,15 @@
 ---
-title: Team Member
+title: Ruby on Rails contract 
 published: false
 ---
-We are looking for a team member fluent in everything and beyond. You will be responsible for making our various businesses awesome. The ideal candidate has great skills. You will work here and there.
+We are seeking a developer or company to work on a Ruby on Rails app that provides an administration-style interface to sales generated on Amazon by Nearfine [1], an online book dealer. You will deliver a number of features to improve the application's workflow, the first of which will be implementing Gmail labels-style tagging.
 
-You will earn a lot when you start, more when you progress, culminating with you becoming a partner if you are truly awesome.
+In addition to requirements typical to Rails projects, familiarity with Active Admin will help.
 
-Please submit a cover letter and resume highlighting your experience and demonstrating the required proficiency!
+You will work remotely with a small business team in London and New York. Good English skills are necessary.
+
+The contract initially is short-term and per-feature. We do look to establish an ongoing relationship.
+
+If interested, please write to jobs@papercavalier.com.
+
+[1]: https://nearfine.com
