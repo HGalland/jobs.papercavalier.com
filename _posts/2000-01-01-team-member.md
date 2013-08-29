@@ -1,5 +1,5 @@
 ---
-title: Ruby on Rails contract - Tags 
+title: Ruby on Rails contract - Tagging system implementation 
 published: false
 ---
 We are seeking a developer or company to work on a Ruby on Rails app that provides an administration-style interface to sales generated on Amazon by Nearfine [1], an online book dealer. You will deliver a number of features to improve the application's workflow, the first of which will be implementing Gmail labels-style tagging.
